@@ -1,4 +1,4 @@
-## Predicting Earthquakes in Different Regions of Pakistan
+## Earthquakes from 1971-2022 analysis and magnitude prediction
 # Data Science and Analytics project
 
 
